@@ -1,0 +1,18 @@
+{ 
+"CheckPort":[
+    {
+        "Parameter1":  "ComputerName",
+        "Parameter2":  "Port",
+        
+    }
+],
+	
+   "CPU":[
+    {
+        "Parameter1":  "ComputerName",
+        "Parameter2":  "Service",
+        
+    }
+]
+
+}
